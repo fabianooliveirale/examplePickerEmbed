@@ -149,7 +149,6 @@
                                             <constraints>
                                                 <constraint firstItem="HUl-cT-ttj" firstAttribute="leading" secondItem="VVs-j9-2Ab" secondAttribute="leadingMargin" id="2cq-hc-Lhj"/>
                                                 <constraint firstItem="HUl-cT-ttj" firstAttribute="top" secondItem="VVs-j9-2Ab" secondAttribute="topMargin" constant="52" id="4dQ-C4-TJ1"/>
-                                                <constraint firstAttribute="bottomMargin" secondItem="HUl-cT-ttj" secondAttribute="bottom" constant="53" id="9Gh-8N-J0D"/>
                                                 <constraint firstItem="cnJ-Mm-ba4" firstAttribute="bottom" secondItem="VVs-j9-2Ab" secondAttribute="bottomMargin" id="G0p-PC-OJo"/>
                                                 <constraint firstItem="cnJ-Mm-ba4" firstAttribute="top" secondItem="HUl-cT-ttj" secondAttribute="bottom" constant="163" id="See-3v-gUN"/>
                                                 <constraint firstItem="HUl-cT-ttj" firstAttribute="trailing" secondItem="VVs-j9-2Ab" secondAttribute="trailingMargin" id="Yee-DS-33Y"/>
@@ -183,7 +182,6 @@
                                             <constraints>
                                                 <constraint firstItem="xHh-Sh-35D" firstAttribute="top" secondItem="iUM-Ic-9K6" secondAttribute="topMargin" constant="69" id="1vh-5L-9hb"/>
                                                 <constraint firstItem="aLD-Do-MFK" firstAttribute="top" secondItem="xHh-Sh-35D" secondAttribute="bottom" constant="377" id="585-dH-W6x"/>
-                                                <constraint firstAttribute="bottomMargin" secondItem="xHh-Sh-35D" secondAttribute="bottom" constant="70" id="RVS-lX-mde"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="xHh-Sh-35D" secondAttribute="trailing" constant="10" id="Sxu-cr-Jey"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="aLD-Do-MFK" secondAttribute="bottom" constant="20" id="jl8-7f-hnZ"/>
                                                 <constraint firstItem="xHh-Sh-35D" firstAttribute="leading" secondItem="iUM-Ic-9K6" secondAttribute="leadingMargin" constant="10" id="nhv-Vz-cQs"/>

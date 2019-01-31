@@ -15,9 +15,6 @@ class newTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        textFieldTwo.text = ""
-        textFieldOne.text = ""
-        
     }
     
   
