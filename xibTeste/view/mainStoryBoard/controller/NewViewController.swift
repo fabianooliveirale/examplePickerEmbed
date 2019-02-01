@@ -23,13 +23,17 @@ class NewViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+//        let toolBar = UIToolbar().ToolbarPiker(mySelect: #selector(NewViewController.dismissPicker))
+//
+//        textField.inputAccessoryView = toolBar
         
         datePicker.datePickerMode = .date
         datePicker.addTarget(self, action: #selector(self.dateChanged(_:)), for: .valueChanged)
-        
+
         textField.inputView = datePicker
+        textField.keyBoardDefault()
     }
-    
+
     @objc func dateChanged(_: Any){
         let dateFormat = DateFormatter()
         dateFormat.dateFormat = "dd/MM/yyyy"
@@ -49,3 +53,6 @@ class NewViewController: UIViewController {
         }
     }
 }
+
+
+

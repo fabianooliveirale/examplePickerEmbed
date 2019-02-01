@@ -15,6 +15,10 @@ class newTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+//        textFieldOne.keyBoardDefault()
+//        textFieldTwo.keyBoardBlack()
+//    
     }
     
   

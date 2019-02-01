@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:xibTeste.xcodeproj">
+      location = "self:/Users/fabiano/examplePickerEmbed/xibTeste.xcodeproj">
    </FileRef>
 </Workspace>
